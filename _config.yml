@@ -1,6 +1,6 @@
-name: onoywithsoul
+name: onlywithsoul
 favicon: null
-layout_spectrum: 0.48956
+layout_spectrum: 0
 typography_spectrum: 0.72655
 title: onlywithsoul
 cta:
@@ -22,8 +22,8 @@ color:
     - '#efefef'
     - '#016fde'
     - '#7b7b7b'
-  brandStrength: 0.8125
-  lightness: 0.8125
-  saturation: 0
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
